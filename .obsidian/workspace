@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-07-12-Test-post.md",
+            "file": "_posts/2022-07-13-Test3.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-07-12-Test-post.md",
+                "file": "_posts/2022-07-13-Test3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-07-12-Test-post.md"
+                "file": "_posts/2022-07-13-Test3.md"
               }
             }
           }
@@ -126,12 +126,12 @@
   },
   "active": "a5ea560ddc8023f9",
   "lastOpenFiles": [
+    "_posts/2022-07-13-Test3.md",
+    "_posts/2022-07-13-Test2.md",
+    "_posts/2022-07-12-welcome-to-jekyll.md",
     "_posts/2022-07-12-Test-post.md",
     "_posts/2022-07-12-Test-post 1.md",
-    "_posts/2022-07-12-welcome-to-jekyll.md",
     "_posts/Шаблон посту.md",
-    "_posts/2022-07-13-05-41-Test2.md",
-    "_posts/2022-07-13-05-42-Test3.md",
     "_posts/YYYY-MM-DD-HH-mm.md",
     "_posts/YYYY-MM-DD-HH-mm1.md",
     "_posts/new.md",
