@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "4aa6fa48effbd449",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5ea560ddc8023f9",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "a3ee5a94d595f50e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0308dbb851b7017f",
+    "type": "split",
+    "children": [
+      {
+        "id": "49c5972981141388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ebcb76335f90af2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e03f920f02384b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "410e439cc0194a2c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271
+  },
+  "right": {
+    "id": "e1d059fe050c9a50",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a34bec5a530e628",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d114c5a23295a46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e55bf12c4da995b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "f8c452b40c242a57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a5ea560ddc8023f9",
+  "lastOpenFiles": [
+    "_posts/2022-07-12-Test-post 1.md",
+    "_posts/2022-07-12-Test-post.md",
+    "1index.md",
+    "donate.md",
+    "about.md",
+    "index.md",
+    "_posts/2022-07-12-welcome-to-jekyll.md",
+    "obsidian-wiki-main/README.md",
+    "База/Тести/Мій перший файл.md",
+    "База/Тести/форматування.md"
+  ]
+}

@@ -22,7 +22,7 @@
 
 title: Мініблог Сомика
 tagline: Тестовий блог
-description: Вітаю на сайті. Цей блог створений для тесту. Сомик (я) хоче спробувати створити місце для якихось своїх постів.
+description: Цей блог створений для тесту. Сомик (я) хоче спробувати створити місце для якихось своїх постів.
 
 author:
   name: som1c
@@ -31,7 +31,7 @@ author:
 plugins:
   - jekyll-paginate
 
-paginate: 3
+paginate: 10
 
 remote_theme: vfvong/jekyll-theme-tao
 categories_path: /categories/

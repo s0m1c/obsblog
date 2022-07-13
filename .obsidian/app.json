@@ -1,0 +1,10 @@
+{
+  "obsidianCss": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "База",
+  "attachmentFolderPath": "./_вкладення",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "promptDelete": false
+}
