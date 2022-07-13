@@ -1,0 +1,12 @@
+- title: Telegram
+  url: https://t.me/som1c
+  icon: fab fa-telegram
+- title: Instagram
+  url: https://www.instagram.com/som1c/
+  icon: fab fa-instagram
+- title: GitHub
+  url: https://github.com/s0m1c
+  icon: fab fa-github
+- title: Email
+  url: mailto:somecatfish@gmail.com
+  icon: fas fa-envelope
