@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Шаблони",
+  "templates_folder": "",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Думки",
-      "template": "Шаблони/Шаблон оформлення думки.md"
+      "folder": "_posts",
+      "template": "_posts/Шаблон посту.md"
     }
   ],
   "syntax_highlighting": true,

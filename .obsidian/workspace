@@ -7,8 +7,11 @@
         "id": "a5ea560ddc8023f9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-07-13-05-41.md",
+            "mode": "source"
+          }
         }
       },
       {
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2022-07-13-05-41.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2022-07-13-05-41.md"
+              }
             }
           }
         ],
@@ -120,15 +126,15 @@
   },
   "active": "a5ea560ddc8023f9",
   "lastOpenFiles": [
-    "_posts/2022-07-12-Test-post 1.md",
+    "_posts/2022-07-13-05-41.md",
+    "_posts/2022-07-13-05-42.md",
+    "_posts/YYYY-MM-DD-HH-mm.md",
+    "_posts/Шаблон посту.md",
+    "_posts/YYYY-MM-DD-HH-mm1.md",
+    "_posts/new.md",
     "_posts/2022-07-12-Test-post.md",
-    "1index.md",
-    "donate.md",
     "about.md",
-    "index.md",
-    "_posts/2022-07-12-welcome-to-jekyll.md",
-    "obsidian-wiki-main/README.md",
-    "База/Тести/Мій перший файл.md",
-    "База/Тести/форматування.md"
+    "donate.md",
+    "_posts/2022-07-12-Test-post 1.md"
   ]
 }

@@ -33,6 +33,7 @@ plugins:
 
 paginate: 10
 
+disqus: som1c.disqus.com
 remote_theme: vfvong/jekyll-theme-tao
 categories_path: /categories/
 tags_path: /tags/
